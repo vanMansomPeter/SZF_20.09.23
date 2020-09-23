@@ -10,6 +10,7 @@ namespace SZF_20._09._23
     {
         static void Main(string[] args)
         {
+            
         }
     }
 }
